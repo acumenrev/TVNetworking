@@ -3,6 +3,7 @@ Swift HTTP Networking wrapper around URLSession on iOS
 
 ## Homepage
 TVNetworking: https://github.com/acumenrev/TVNetworking
+
 TVNetworking Pod: https://cocoapods.org/pods/TVNetworking
 
 ## Requirements
