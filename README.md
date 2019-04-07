@@ -16,16 +16,16 @@ TVNetworking Pod: https://cocoapods.org/pods/TVNetworking
 
 ### CocoaPods
 
-[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate Alamofire into your Xcode project using CocoaPods, specify it in your `Podfile`:
+[CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects. For usage and installation instructions, visit their website. To integrate `TVNetworking` into your Xcode project using CocoaPods, specify it in your `Podfile`:
 
 ```ruby
-pod 'TVNetworking', '~> 0.0.1'
+pod 'TVNetworking', '~> 0.0'
 ```
 
 ### Manually
 
-If you prefer not to use any of the aforementioned dependency managers, you can integrate TVNetworking into your project manually.
+If you prefer not to use any of the aforementioned dependency managers, you can integrate `TVNetworking` into your project manually.
 
 ## License
 
-TVNetworking is released under the MIT license.
+`TVNetworking` is released under the `MIT license`.
