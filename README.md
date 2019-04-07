@@ -1,6 +1,10 @@
 # TVNetworking
 Swift HTTP Networking wrapper around URLSession on iOS
 
+## Homepage
+TVNetworking: https://github.com/acumenrev/TVNetworking
+TVNetworking Pod: https://cocoapods.org/pods/TVNetworking
+
 ## Requirements
 
 - iOS 10.0+ / macOS 10.12+ / tvOS 10.0+ / watchOS 3.0+
@@ -15,11 +19,11 @@ Swift HTTP Networking wrapper around URLSession on iOS
 
 ```ruby
 pod 'TVNetworking', '~> 0.0.1'
+```
 
 ### Manually
 
 If you prefer not to use any of the aforementioned dependency managers, you can integrate TVNetworking into your project manually.
-```
 
 ## License
 
